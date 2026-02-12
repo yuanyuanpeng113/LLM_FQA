@@ -10,7 +10,6 @@ pip install evaluate>=0.3.0
 pip install pyext==0.7
 pip install mosestokenizer==1.0.0
 pip install huggingface_hub>=0.11.1
-pip install fsspec<2023.10.0
 ```
 
 ### Model
